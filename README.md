@@ -73,7 +73,7 @@
 **_putchar.c**
 * contains the function ```_putchar```, which writes a character to stdout.
 
-**holberton.h**
+**main.h**
 *contains all function prototypes used for ```_printf```.
 
 **man_3_printf**
